@@ -9,8 +9,8 @@
 
 <resources>
 
-    <string name="app_name">Papéis de paredes Viper</string>
-    <string name="solid_color">Cor sólida</string>
+    <string name="app_name">VPapers</string>
+    <string name="solid_color">Cor solida</string>
     <string name="pick_color">Selecione uma cor</string>
     <string name="red">Vermelho</string>
     <string name="green">Verde</string>
