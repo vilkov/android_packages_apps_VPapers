@@ -9,10 +9,54 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-    <item>wallpaper_0</item>
+    <item>wall0</item>
+    <item>wall1</item>
+    <item>wall2</item>
+    <item>wall3</item>
+    <item>wall4</item>
+    <item>wall5</item>
+    <item>wall6</item>
+    <item>wall7</item>
+    <item>wall8</item>
+    <item>wall9</item>
+    <item>wall10</item>
+    <item>wall11</item>
+    <item>wall12</item>
+    <item>wall13</item>
+    <item>wall14</item>
+    <item>wall15</item>
+    <item>wall16</item>
+    <item>wall17</item>
+    <item>wall18</item>
+    <item>wall19</item>
+    <item>wall20</item>
+    <item>wall21</item>
+    <item>wall22</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>Viper</item>
+    <item>ViperOS - 1</item>
+    <item>ViperOS - 2</item>
+    <item>ViperOS - 3</item>
+    <item>ViperOS - 4</item>
+    <item>ViperOS - 5</item>
+    <item>ViperOS - 6</item>
+    <item>ViperOS - 7</item>
+    <item>ViperOS - 8</item>
+    <item>ViperOS - 9</item>
+    <item>ViperOS - 10</item>
+    <item>ViperOS - 11</item>
+    <item>ViperOS - 12</item>
+    <item>ViperOS - 13</item>
+    <item>ViperOS - 14</item>
+    <item>ViperOS - 15</item>
+    <item>ViperOS - 16</item>
+    <item>ViperOS - 17</item>
+    <item>ViperOS - 18</item>
+    <item>ViperOS - 19</item>
+    <item>ViperOS - 20</item>
+    <item>ViperOS - 21</item>
+    <item>ViperOS - 22</item>
+
     </string-array>
 </resources>
