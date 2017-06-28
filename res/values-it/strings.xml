@@ -7,4 +7,8 @@
      The text of the license can be found in the LICENSE file
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
-<resources></resources>
+<resources>
+  <string name="app_name">VPapers</string>
+  <string name="action_apply">Applica</string>
+  <string name="applying">Applicazione sfondo selezionato</string>
+</resources>
